@@ -1,12 +1,23 @@
-# 👋 Hi, I'm MD AL SUHAD
 
-### 💻 Full Stack Web Developer | React & Next.js Developer
+<p align="center">
+  <img 
+    src="./banner.png" 
+    alt="MD AL SUHAD - Full Stack Web Developer"
+    width="100%"
+  />
+</p>
 
-I’m a passionate **Full Stack Web Developer** who enjoys building modern, responsive, and user-friendly web applications.
+<h1 align="center">Hi 👋, I'm MD AL SUHAD</h1>
 
-I love turning ideas into clean, functional, and scalable digital experiences while continuously learning new technologies.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Arial&size=20&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Developer+%7C+React+%26+Next.js+Developer;Enjoys+building+modern%2C+responsive%2C+and+user-friendly+web+applications."
+    alt="Animated Text"
+  />
+</p>
 
----
+
+
 
 ## 🚀 About Me
 
@@ -71,9 +82,7 @@ A React-based application for exploring technologies and creating a personalized
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdalsuhad-cloud&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalsuhad-cloud&theme=tokyonight&hide_border=true" />
